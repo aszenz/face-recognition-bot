@@ -1,0 +1,6 @@
+.env
+imgs/
+node_modules/
+.vscode
+
+.eslintrc.json
